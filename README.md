@@ -28,6 +28,8 @@ O **Canes-Grill** é uma plataforma desenvolvida para gerenciar o menu e os pedi
   - **Styled Components:** Estilização baseada em componentes.
 - **Backend:**
   - **Firebase Firestore:** Banco de dados NoSQL para armazenar produtos e pedidos.
+  - **Python:** Utilizando o framework Django para roteamento das URLs para as views corretas e autenticação, administração e templates HTML para a interface web.
+.
 - **Outras:**
   - **HTML5**
   - **CSS3**
